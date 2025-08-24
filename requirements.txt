@@ -1,0 +1,5 @@
+chromadb==0.5.3
+pypdf==4.2.0
+python-dotenv==1.0.1
+tqdm==4.66.4
+requests==2.32.3
